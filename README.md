@@ -1,4 +1,4 @@
-## Hello! I'm Raissa Santos 
+## Hello!
 
 <div align="center">
   <a href="https://github.com/raissaasantos">
