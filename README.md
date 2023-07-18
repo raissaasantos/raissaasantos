@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my programming skills<br>💬 I’m looking to collaborate on awesome projects<br>🌱 I’m currently learning JS and Python<br> ⚡ Fun fact  -> Reading is my favorite pastime 
+🔭 I’m currently working on improving my programming skills<br>💬 I’m looking to collaborate on awesome projects<br>🌱 I’m currently learning JAVA<br> ⚡ Fun fact  -> Reading is my favorite pastime 
 
 
 ## 🌐 Socials:
