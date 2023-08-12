@@ -27,7 +27,7 @@ const aboutMe = {
 ````
 <h3>💻 Some stats 💻</h3>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=raissaasantos&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=raissaasantos&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
