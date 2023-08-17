@@ -25,9 +25,6 @@ const aboutMe = {
 > github: raissaasantos
 > email: raissaassissantos7@gmail.com
 ````
-<h3>💻 Some stats 💻</h3>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=raissaasantos&theme=tokyonight&hide_border=FALSE&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
