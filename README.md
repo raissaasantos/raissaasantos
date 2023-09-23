@@ -23,7 +23,7 @@ const aboutMe = {
 > help --contact
 > linkedin: raissasantos7
 > github: raissaasantos
-> email: raissaassissantos7@gmail.com
+> email: raissasantos55@yahoo.com
 ````
 
 ---
