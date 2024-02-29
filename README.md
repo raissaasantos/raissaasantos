@@ -15,8 +15,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["high school student, open for job opportunities"],
-   challenge: "Coding everyday",
+   currentOccupation: ["college student, open for job opportunities"],
+   challenge: "learning french",
 };
 ```
 ````bash
