@@ -17,7 +17,7 @@ const aboutMe = {
              languages: ["Java"],
         },
     },
-    currentOccupation: ["college student, open for job opportunities"],
+    currentOccupation: ["uni student, open for job opportunities"],
     challenge: "learning a 3rd language",
 };
 
