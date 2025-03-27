@@ -1,27 +1,18 @@
 
 
 
-<p><em>Hello, I'm Raissa! 😊</br>
-</em></p>
+<h1>Hello, I'm Raissa! 😊</h1>
+Welcome to my GitHub Page
 
+# 📝 About me
+- :bust_in_silhouette: <b>Name:</b> Raissa
+- :seedling: <b>Age:</b> 19
+- :round_pushpin: <b>Location:</b> Jandira - São Paulo, Brazil
+- :computer: <b>Stack:</b> Java
+- :books: <b>Learning:</b> OOP, SQL, Spring Boot
+- :mortar_board: <b>Education:</b> Information Systems, 3rd semester.
+- :globe_with_meridians: <b>Languages:</b> Portuguese (Fluent), English (C1), German (A1)
 
-```javascript
-const aboutMe = {
-    pronouns: "she" | "her",
-    code: ["FullStack"],
-    technologies: {
-        frontEnd: {
-            languages: ["JavaScript", "HTML", "CSS"],
-        },
-        backEnd: {
-             languages: ["Java"],
-        },
-    },
-    currentOccupation: ["uni student, open for job opportunities"],
-    challenge: "learning a 3rd language",
-};
-
-```
 ````bash
 > help --contact
 > linkedin: raissasantos7
