@@ -10,7 +10,7 @@ Welcome to my GitHub Page
 - :round_pushpin: <b>Location:</b> Jandira - São Paulo, Brazil
 - :computer: <b>Stack:</b> Java
 - :books: <b>Learning:</b> OOP, SQL, Spring Boot
-- :mortar_board: <b>Education:</b> Information Systems, 3rd semester.
+- :mortar_board: <b>Education:</b> Information Systems, 5th semester.
 - :globe_with_meridians: <b>Languages:</b> Portuguese (Fluent), English (C1), German (A1)
 
 ````bash
