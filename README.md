@@ -6,7 +6,7 @@ Welcome to my GitHub Page
 
 # 📝 About me
 - :bust_in_silhouette: <b>Name:</b> Raissa
-- :seedling: <b>Age:</b> 20
+- :seedling: <b>Age:</b> 21
 - :round_pushpin: <b>Location:</b> Jandira - São Paulo, Brazil
 - :computer: <b>Stack:</b> Java
 - :books: <b>Learning:</b> OOP, SQL, Spring Boot
