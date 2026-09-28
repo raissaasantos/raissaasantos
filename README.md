@@ -11,7 +11,7 @@ Welcome to my GitHub Page
 - :computer: <b>Stack:</b> Java
 - :books: <b>Learning:</b> OOP, SQL, Spring Boot
 - :mortar_board: <b>Education:</b> Information Systems, 6th semester.
-- :globe_with_meridians: <b>Languages:</b> Portuguese (Fluent), English (C1), German (A1)
+- :globe_with_meridians: <b>Languages:</b> Portuguese (Fluent), English (C1), French (A1)
 
 ````bash
 > help --contact
